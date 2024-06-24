@@ -1,0 +1,2 @@
+spring.application.name: WiseExpressAdminBackend
+server.port: 8081
